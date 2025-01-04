@@ -38,7 +38,7 @@ For different input combinations generate the timing diagram
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:omkar varma s RegisterNumber: 24008163
 */
 module ex11(out,clk,rst);
 input clk,rst;
